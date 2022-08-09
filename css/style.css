@@ -130,6 +130,7 @@ body {
          transition: opacity 0.5s;
          list-style: none;
          margin-top: 5px;
+         border-radius: 2px;
          }
          .blg:hover + .L-blg{
              visibility: visible;
