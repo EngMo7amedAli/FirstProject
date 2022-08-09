@@ -122,13 +122,14 @@ body {
          position: absolute;
          width: 120px;
          padding:5px;
-         background-color: rgba(50, 122, 122, 0.363);
+         background-color: rgba(50, 122, 122, 0.76);
          text-align: center;
          left:78%;
          visibility: hidden;
          opacity: 0;
          transition: opacity 0.5s;
          list-style: none;
+         margin-top: 5px;
          }
          .blg:hover + .L-blg{
              visibility: visible;
